@@ -43,3 +43,4 @@ if __name__ == "__main__":
 
     status = assess_security(open_ports)
     print(status)
+    print(target_ip)
